@@ -57,7 +57,7 @@ I took various classes, including ones that were related to my intrests, and one
 
 I did few school-sponsored extracurriculars for much of the same reasons, and that I didn't really find any that I felt like I'd enjoy due to the workload and social dynamics.
 
-I did decently well in school, althoguh I did struggle at times at various points for various reasons, whether that be feeling overwhelmed with pressure, exhaustion and burn out, or just, not wanting to wake up at 6am all the time.
+I did decently well in school, although I did struggle at times at various points for various reasons, whether that be feeling overwhelmed with pressure, exhaustion and burn out, or just, not wanting to wake up at 6am all the time.
 ## The social part
 Truth is, I spent 4 years in a high school enviorment, and have came to the conclusion that the social enviorment SUCKS.
 
@@ -104,7 +104,7 @@ So if you've been paying attention to the iOS jailbreaking and research scene, y
 - Jailbreaks for iOS 17/18/26/*27*
 - SSH Ramdisks to fix devices that have been bricked over the years
 
-There is *one* big downside with this epxloit, it's that:
+There is *one* big downside with this exploit, it's that:
 **you cannot have a passcode on iOS 12?-16, and iOS 17+, SEP encrypted stuff won't work whatsoever, until a workaround is found (there are some ideas being discussed)**
 
 That said, I am excited for this exploit, and what it'll bring, both for myself, and the broader community.
