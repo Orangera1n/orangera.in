@@ -3,7 +3,7 @@ title: Landing
 ---
 Welcome to this site!
 
-I am Scarlett Asahi, also known as orangera1n.
+I am Scarlett Asahi (in japanese, its usually "LastName FirstName", so here its "Asahi Scarlett"), also known as orangera1n.
 
 ### I primarily do (and am well-known for) tech things, such as: 
 - Writing documentation (I made the website for [NTASP project](https://nt-for-asi.github.io), and have made many wiki contributions on TheAppleWiki and BetaWiki)
@@ -20,12 +20,14 @@ I am Scarlett Asahi, also known as orangera1n.
 - Commenting and researching avation news (i guess)
 - Taking photos, espically of nature or the night sky
 - Looking into fashion
+- *very slowly* learning japanese
 
 ## Profiles and contact
 ###I have several forms of contact available, including:
-- Discord (orangera1n, UID being 906901606820380745)
+- Discord (orangera1n, UID being 906901606820380745) (my primary method of communication)
 - Telegram (https://t.me/orangera1n)
 - Signal (orangera1n.6956)
+- Fluxer (orangera1n#5269)
 - Email (orangera1n@orangera.in)
 
 ###I am also findable at:
