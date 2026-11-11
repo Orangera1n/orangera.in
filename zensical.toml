@@ -36,9 +36,11 @@ site_url = "https://orangera.in/"
 copyright = """
 Copyright &copy; 2026 The Globe-spanning orangera1n media empire
 """
-draft_docs = [
+draft_docs = """
  "banter/"
  "drafts/"
+"""
+     
 # Zensical supports both implicit navigation and explicitly defined navigation.
 # If you decide not to define a navigation here then Zensical will simply
 # derive the navigation structure from the directory structure of your
