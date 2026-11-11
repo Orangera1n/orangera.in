@@ -22,12 +22,12 @@ site_description = "A homepage for orangera1n, apperantly"
 # The site_author attribute. This is used in the HTML head element.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_author
-site_author = "Scarlett Aria (Asahi?) (orangera1n)"
+site_author = "Scarlett Asahi (orangera1n)"
 
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-site_url = "https://orangera1n-zensical.github.io/"
+site_url = "https://orangera.in/"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
@@ -36,7 +36,9 @@ site_url = "https://orangera1n-zensical.github.io/"
 copyright = """
 Copyright &copy; 2026 The Globe-spanning orangera1n media empire
 """
-
+draft_docs = [
+ "banter/"
+ "drafts/"
 # Zensical supports both implicit navigation and explicitly defined navigation.
 # If you decide not to define a navigation here then Zensical will simply
 # derive the navigation structure from the directory structure of your
