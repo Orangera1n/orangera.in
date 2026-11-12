@@ -168,7 +168,7 @@ That said, there are some things I feel as if could be improved:
 - A Postcode readout for better debugging
 
 #### The GPU story:
-This one is a funny story, because it was one of those "last minute oh shit" decisions (I literally had got most of the parts), as one would say. I was initially thinking of just... using my RTX 2070 Super as my GPU for now, and honestly, it was a good card, sure it 's not blazing fast anymore, but it's not bad. But, I kind of just decided to go GPU shopping... anyway. At the micro center (best computer store ever), I saw the refurbished listings for some refurb cards, I considered them, but then I realized that they would likely not come back for a while, if ever. I then decided to walk up to the DIY section to ask if they had any refurb GPUs, iirc they said they had a 7800 XT for 475$, which I was hesitant for and quickly decided against. So after I got home that night, I decided to try and find a GPU for a decent price, no luck. But then I decided to expand my search, and I stumbled upon a 625USD eBay listing for an RX 7900 XT Reference GPU, with only one issue: poor temperatures, especially during extended gaming. I was a bit hesitant, decided to try looking elsewhere for a GPU in the 5-600$ range (my traditional range), and I found... not much, some looked promising but I wasn't sure if I should go with them. So I decided to come back to the 7900XT listing from eBay, when I got an offer for 575$. Initially, I decided to try and get it down even further, but the seller refused, so I decided to accept it. It works well, temperatures are fine from my testing, fans work, etc etc, and I will repaste it when I get the chance (ft. PTM7950).
+This one is a funny story, because it was one of those "last minute oh shit" decisions (I literally had got most of the parts), as one would say. I was initially thinking of just... using my RTX 2070 Super as my GPU for now, and honestly, it was a good card, sure it 's not blazing fast anymore, but it's not bad. But, I kind of just decided to go GPU shopping... anyway. At the micro center (best computer store ever), I saw the refurbished listings for some refurb cards, I considered them, but then I realized that they would likely not come back for a while, if ever. I then decided to walk up to the DIY section to ask if they had any refurb GPUs, iirc they said they had a 7800 XT for 475,whichIwashesitantforandquicklydecidedagainst.SoafterIgothomethatnight,IdecidedtotryandfindaGPUforadecentprice,noluck.ButthenIdecidedtoexpandmysearch,andIstumbledupona625USDeBaylistingforanRX7900XTReferenceGPU,withonlyoneissue:poortemperatures,especiallyduringextendedgaming.Iwasabithesitant,decidedtotrylookingelsewhereforaGPUinthe5-600 range (my traditional range), and I found... not much, some looked promising but I wasn't sure if I should go with them. So I decided to come back to the 7900XT listing from eBay, when I got an offer for 575$. Initially, I decided to try and get it down even further, but the seller refused, so I decided to accept it. It works well, temperatures are fine from my testing, fans work, etc etc, and I will repaste it when I get the chance (ft. PTM7950).
 
 However, the RX 7900 XT is actually, very much a good card for the price I paid. It has a lot of horsepower AND 20GB VRAM, very good compared to most NVIDIA (or even consumer AMD cards with RDNA 4), and despite it being 4 years old, it's only last generation (and high end at that), and it supports tech like FSR4.1, so IMO, it was a good call that I didn't sacrifice too much on. Perf-wise, it trades blows with the RTX 5070 and RX 9070, and surpasses the 9070 GRE and 5060 TI. 
 
@@ -176,7 +176,7 @@ That isn't to say that the card is perfect, it's ovbiously not a 5080/90, and th
 
 That said, I will say that, for the price I paid for, I got a great deal on a card that not only has comparable performance to cards that are *not* going to be sold for 575$, but actually has things *beyond* those cards, like VRAM.
 #### Installing Windows:
-A breif story here, but for some reason, I *always* fail to install Windows on the first try when building PCs. 
+A brief story here, but for some reason, I *always* fail to install Windows on the first try when building PCs. 
 
 For my first PC:
 
@@ -184,18 +184,18 @@ For my first PC:
 - So, I (probably wrongfully), formated the USB drive as FAT32 and used a tool to turn an ISO to that USB, but then... I got the "Windows cannot open the required file D:\Sources\install.wim. Make sure that all files required for installation are available and restart the installation. Error code: 0x8007000D" error. It turns out, FAT32 has a filesize limit, and then-modern WIM images exceed it.
 - Eventually, after numerous trials and error (thanks dad), I got the installer working
 
-For this PC, I had a similar challenge, it turns out, despite litreally running a Windows ISO Site, I had a similar mistake. 
+For this PC, I had a similar challenge, it turns out, despite literally running a Windows ISO Site, I had a similar mistake. 
 
-I kept trying to boot into IOT Enterprise LTSC (using Ventoy), and I kept getting errors, I tried wimboot, nothing, I tried legacy and UEFI, nothing, I tried diffrenet partition tables, fileysstems, etc, and nothing. 
+I kept trying to boot into IOT Enterprise LTSC (using Ventoy), and I kept getting errors. I tried wimboot, nothing, I tried legacy and UEFI, nothing, I tried different partition tables, filesystems, etc, and nothing. 
 
-Then, it hit me, I had downloaded an ARM64 ISO instead of an AMD64 one. So I had to download an AMD64 one and copy *that*, 🫠 and install windows. Then, I had to try to install Windows twice, first time failed, so I had to use the older setup UI.
+Then, it hit me, I had downloaded an ARM64 ISO instead of an AMD64 one. So I had to download an AMD64 one and copy *that*, 🫠 and install windows. Then, I had to try to install Windows twice, the first time failing, so I had to use the older setup UI.
 
-I eventully got Windows installed, and from then on, very little issues. I am now enjoying my PC, using it for gaming, and more!
+I eventually got Windows installed, and from then on, very little issues. I am now enjoying my PC, using it for gaming, and more!
 ### Some funny build moments:
 Not much to say, but:
 
 - One was erm, where it'd boot but not display anything, turns out, I had to reseat the GPU and SSD
-- Another was where I kept trying to figure out how to screw in the radaitor and the fans, which was erm, a mess, turns out, you have to get the screws *exactly right*, or else you will not attach the radaitor to the case and fans
+- Another was where I kept trying to figure out how to screw in the radiator and the fans, which was erm, a mess, turns out, you have to get the screws *exactly right*, or else you will not attach the radiator to the case and fans
 - A friend, who turned out to be a fellow tech nerd, was in the room with me, and she helped me build and we bantered
 ### Some photos:
 ![Image title](https://orangera.in/images/PC_DeskSetup_DeepBlueRGB.jpg){ align=left, width=400 }
@@ -205,11 +205,11 @@ The desk setup, in both Deep Blue and Evil Red RGB lighting
 ///
 ![Image title](https://orangera.in/images/PC_Inside_TealBlueRGB.JPG)
 /// caption
-The inside, you can probably see the gunmetal asthetic here, looks beautiful doesn't it?
+The inside, you can probably see the gunmetal aesthetic here, looks beautiful doesn't it?
 ///
 ![Image title](https://orangera.in/images/oldPC_Finalshot_2.JPG)
 /// caption
-A final shot of the rear of the old PC, I had already removed the front fans that were propertiary and uncontrollable, and one was failing
+A final shot of the rear of the old PC, I had already removed the front fans that were proprietary and uncontrollable, and one was failing, and I had already removed the GPU too.
 ///
 ![Image title](https://orangera.in/images/oldPC_Finalshot_1.JPG)
 /// caption
@@ -224,4 +224,6 @@ In addition to that brief life update, I did some following changes:
 - added some adapted copies of some old blog posts that were popular and that I liked
 - Added a section for links to cool sites and people
 - redesigned the navigation for the site to be more split and in a better order
+
+
 
